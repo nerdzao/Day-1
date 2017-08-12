@@ -126,9 +126,9 @@ Theo - Node no Rasp Fazendo um Hello World no RaspBerry Pi com Windows Core e No
 09:00 - 10:00 
 Velrino - Microserviços
 
-  Slide: https://pt.slideshare.net/denismagalhaesilva/microservios-78777284
-  Github: https://github.com/nerdzao/gateway
-  Linkedin: https://www.linkedin.com/in/velrino
+    Slide: https://pt.slideshare.net/denismagalhaesilva/microservios-78777284
+    Github: https://github.com/nerdzao/gateway
+    Linkedin: https://www.linkedin.com/in/velrino
 
 10:00 - 11:00 
 Italo José - Servless com .net core
